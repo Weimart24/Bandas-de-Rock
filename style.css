@@ -1,0 +1,18 @@
+.titulo_1{
+    color: rgb(255, 255, 255);
+    background-color: burlywood;
+}
+
+body{
+    background-image: url(https://previews.123rf.com/images/greyjj/greyjj1503/greyjj150300044/37491765-la-m%C3%BAsica-rock-y-heavy-metal-de-ilustraci%C3%B3n-vectorial-efecto-del-grunge-es-extra%C3%ADble.jpg);
+    background-size: cover;
+}
+.boton{
+    background-color: burlywood;
+}
+.boton p{
+    color: brown;
+}
+.tabla_1{
+    background-color: rgb(175, 171, 142);
+}
